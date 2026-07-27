@@ -1,5 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gustavo007-del/Gustavo007-del/main/assets/banner-dark.svg" />
+ 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gustavo007-del/Gustavo007-del/main/assets/banner-light.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gustavo007-del/Gustavo007-del/main/assets/banner-light.svg" />
   <img alt="Asa Shijil banner" src="https://raw.githubusercontent.com/Gustavo007-del/Gustavo007-del/main/assets/banner-dark.svg" />
 </picture>
