@@ -21,7 +21,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asa-shijil-231240267"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin-white&logoColor=22D3EE" /></a>&nbsp;&nbsp;
-  <a href="mailto:shijilkt27@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" /></a>&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shijilkt27@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" />
+</a>
   <a href="https://instagram.com/PLACEHOLDER"><img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA" /></a>&nbsp;&nbsp;
   <a href="https://facebook.com/PLACEHOLDER"><img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE" /></a>&nbsp;&nbsp;
   <a href="https://asashijil.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
