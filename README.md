@@ -4,7 +4,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gustavo007-del/Gustavo007-del/main/assets/banner-light.svg" />
   <img alt="Asa Shijil banner" src="https://raw.githubusercontent.com/Gustavo007-del/Gustavo007-del/main/assets/banner-dark.svg" />
 </picture>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Gustavo007-del&theme=default&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=7d8ea6&currStreakNum=e2e8f7&sideNums=e2e8f7&dates=7d8ea6&border=26324d&hide_border=false" width="100%" />
